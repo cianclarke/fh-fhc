@@ -1,3 +1,9 @@
+# 2.4.0 - 2016-02-23 -  cianclarke
+
+* Add support for fh.db import, export and list
+* Fix env var commands
+* Allow creation of apps from empty repos
+
 # 2.3.0 - 2016-01-09 -  CBrookes
 
 * RHMAP-3751 add decoupled property to mbaas create update
